@@ -1,6 +1,49 @@
-# Day 1
+# Day 1 <!-- omit in toc -->
 
-https://thonny.org/ - Python IDE for beginners. Good for debugging and understanding the flow/evaluation of expression.
+
+- [Lesson 1 - PRINTING](#lesson-1---printing)
+    - [Writing and Running Code](#writing-and-running-code)
+    - [Troubleshooting and Error Handling](#troubleshooting-and-error-handling)
+  - [Practice](#practice)
+    - [Example Output](#example-output)
+  - [Print Modifiers](#print-modifiers)
+- [Lesson 2 - DEBUGGING PRACTICE \& String Manipulation](#lesson-2---debugging-practice--string-manipulation)
+    - [Advanced String Operations](#advanced-string-operations)
+    - [Understanding and Handling Errors](#understanding-and-handling-errors)
+    - [Debugging Tips](#debugging-tips)
+  - [Practice](#practice-1)
+    - [Example Output](#example-output-1)
+- [Lesson 3 - Introduction to the `input()` Function and Nested Functions in Python](#lesson-3---introduction-to-the-input-function-and-nested-functions-in-python)
+    - [Using the `input()` Function](#using-the-input-function)
+    - [Nested Functions](#nested-functions)
+    - [Debugging with Thonny](#debugging-with-thonny)
+    - [Effective Code Documentation](#effective-code-documentation)
+    - [Keyboard Shortcuts for Efficiency](#keyboard-shortcuts-for-efficiency)
+  - [Practice](#practice-2)
+      - [Example Input](#example-input)
+      - [Example Output](#example-output-2)
+- [Lesson 4 - VARIABLES](#lesson-4---variables)
+  - [Basic Concept of Variables](#basic-concept-of-variables)
+  - [Using Variables](#using-variables)
+  - [Practical Example](#practical-example)
+  - [Manipulating Variables](#manipulating-variables)
+  - [Using Variables to Simplify Code](#using-variables-to-simplify-code)
+  - [Importance of Variable Names](#importance-of-variable-names)
+  - [Mutability of Variables](#mutability-of-variables)
+  - [Practice](#practice-3)
+    - [Example Input 1](#example-input-1)
+    - [Example Output 1](#example-output-1)
+    - [Example Input 2](#example-input-2)
+    - [Example Output 2](#example-output-2)
+  - [Best Practices for Naming Variables](#best-practices-for-naming-variables)
+    - [Principles of Variable Naming](#principles-of-variable-naming)
+    - [Syntax Rules for Variable Names](#syntax-rules-for-variable-names)
+    - [Practical Tips for Variable Names](#practical-tips-for-variable-names)
+    - [Example of Variable Naming and Usage](#example-of-variable-naming-and-usage)
+- [Day 1 Project: Band Name Generator](#day-1-project-band-name-generator)
+    - [Project Overview](#project-overview)
+    - [Enhancing User Experience](#enhancing-user-experience)
+
 
 ## Lesson 1 - PRINTING
 
@@ -160,6 +203,7 @@ New lines can be created with a backslash and n.
 #### Debugging with Thonny
 
 1. **Using Thonny for Step-by-Step Execution**:
+   - https://thonny.org/
    - Thonny is a Python IDE that allows for step-by-step execution of code, which can be extremely helpful for beginners to understand how Python processes each part of the code.
    - It can demonstrate how expressions are evaluated and how data flows through functions.
 
