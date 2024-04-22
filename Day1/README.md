@@ -1,6 +1,5 @@
 # Day 1 <!-- omit in toc -->
 
-
 - [Lesson 1 - PRINTING](#lesson-1---printing)
     - [Writing and Running Code](#writing-and-running-code)
     - [Troubleshooting and Error Handling](#troubleshooting-and-error-handling)
