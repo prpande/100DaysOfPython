@@ -1,4 +1,4 @@
-# Day 2 <!-- omit in toc -->
+# Day 2 - Understanding Data Types and How to Manipulate Strings<!-- omit in toc -->
 
 - [Lesson 5 - Introduction to Data Types in Python](#lesson-5---introduction-to-data-types-in-python)
   - [Key Data Types in Python](#key-data-types-in-python)

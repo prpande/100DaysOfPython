@@ -1,4 +1,4 @@
-# Day 3 <!-- omit in toc -->
+# Day 3 - Control Flow and Logical Operators<!-- omit in toc -->
 
 - [Lesson 8 - Control Flow with `if`/`else` and Conditional Operators](#lesson-8---control-flow-with-ifelse-and-conditional-operators)
   - [Introduction to Conditionals](#introduction-to-conditionals)
