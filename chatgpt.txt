@@ -1,0 +1,2 @@
+Following is a transcript of a class on programming in Python. Generate class notes from it.
+create a project problem statement from the transcript below
