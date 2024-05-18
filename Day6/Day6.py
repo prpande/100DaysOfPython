@@ -1,18 +1,18 @@
 # Dummy function mocks for Reeborg's world
 def turn_left():
-    return
+    pass
 def move():
-    return
+    pass
 def wall_in_front():
-    return
+    pass
 def at_goal():
-    return
+    pass
 def front_is_clear():
-    return
+    pass
 def wall_on_right():
-    return
+    pass
 def right_is_clear():
-    return
+    pass
 
 # Practice 1 - Reeborg's Hurdle1 Jumping Challenge
 
