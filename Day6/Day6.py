@@ -84,9 +84,10 @@ while (not at_goal()):
 
 ##
 
-# Project 6  - Reebog's Escaping the Maze
+# Project 6  - Reebog's Escaping the Maze 
 
-# To be run in Reeborg's world console
+## Soln 1
+#Simple solution but buggy -> infinite loop in open space
 def turn_right():
     turn_left()
     turn_left()
@@ -98,6 +99,47 @@ while (not at_goal()):
         move()
     elif front_is_clear():
         move()
+    else:
+        turn_left()
+
+##
+
+# Soln 2
+# Maintains the right wall follow rule
+def turn_right():
+    turn_left()
+    turn_left()
+    turn_left()
+
+while front_is_clear():
+    move()
+turn_left()
+
+while (not at_goal()):
+    if right_is_clear():
+        turn_right()
+        move()
+    elif front_is_clear():
+        move()
+    else:
+        turn_left()
+
+##
+
+
+# Soln 3
+# Doesnt follow right wall rule but simplest
+def turn_right():
+    turn_left()
+    turn_left()
+    turn_left()
+
+while (not at_goal()):
+    if front_is_clear():
+        move()
+    elif right_is_clear():
+        turn_right()
+        move()    
     else:
         turn_left()
 
