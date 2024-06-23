@@ -1,2 +1,2 @@
 Following is a transcript of a class on programming in Python. Generate class notes from it using proper headings.
-create a project problem statement from the transcript below. Do not include any solutions/implementations.
+create a project problem statement from the transcript below with proper headings. Do not include any solutions/implementations.
